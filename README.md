@@ -10,8 +10,9 @@
 
 ##java default libraries.
 
-*import java util.Scanner;
-*import java.util.*;
+import java util.Scanner;
+
+import java.util.*;
 
 ### creating a class,declarating methods.
 
